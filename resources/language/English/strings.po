@@ -848,5 +848,5 @@ msgid "Recently aired"
 msgstr ""
 
 msgctxt "#32586"
-msgstr "Recently watched"
-msgid ""
+msgid "Recently watched"
+msgstr ""
