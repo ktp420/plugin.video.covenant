@@ -853,5 +853,5 @@ msgid "Recently aired"
 msgstr "kürzlich gesendet"
 
 msgctxt "#32586"
-msgstr "Recently watched"
-msgid "kürzlich gesehen"
+msgid "Recently watched"
+msgstr "kürzlich gesehen"
