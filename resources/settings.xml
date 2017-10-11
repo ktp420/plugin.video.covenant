@@ -192,12 +192,13 @@
         <setting id="provider.pelisplustv" type="bool" label="PELISPLUSTV" default="true" />
         <setting id="provider.megapelistv" type="bool" label="MEGAPELIS" default="true" />
         <setting id="provider.pepecine" type="bool" label="PEPECINE" default="true" />
+        <setting id="provider.seriespapaya" type="bool" label="SERIESPAPAYA" default="true" />
         <setting label="Greek" type="lsep" />
         <setting id="provider.gamatotv" type="bool" label="GAMATO" default="true" />
         <setting id="provider.tainiomania" type="bool" label="TAINIOMANIA" default="true" />
         <setting id="provider.tainiesonline" type="bool" label="TAINIESONLINE" default="true" />
-
-
+        <setting id="provider.xrysoi" type="bool" label="XRYSOI" default="true" />
+        <setting id="provider.liomenoi" type="bool" label="LIOMENOI" default="true" />
     </category>
     <category label="32346">
         <setting type="lsep" label="FANART.TV" />
