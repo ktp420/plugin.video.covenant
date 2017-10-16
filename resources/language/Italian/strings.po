@@ -894,3 +894,11 @@ msgstr "Gialloverde"
 msgctxt "#32598"
 msgid "No Color"
 msgstr "Nessun colore"
+
+msgctxt "#32599"
+msgid "Getting genre information from Trakt"
+msgstr "Acquisisco informazioni sul genere da Trakt"
+
+msgctxt "#32600"
+msgid "Preparing sources"
+msgstr "Preparo fonti"
