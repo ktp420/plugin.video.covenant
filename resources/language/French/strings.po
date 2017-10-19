@@ -837,7 +837,7 @@ msgstr "Films/Series Tv"
 
 msgctxt "#32581"
 msgid "Results Limit"
-msgstr "Limite de résultats"
+msgstr "Résultats Limité"
 
 msgctxt "#32582"
 msgid "Personal API keys provide quicker API responses."
