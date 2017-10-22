@@ -1,16 +1,30 @@
-# Gilad Freidkin, 2017
+# Addon Name: Covenant
+# Addon id: plugin.video.covenant
+# Addon Provider: Covenant
+# Translators:
+# Translators:
+# Itay Mizi, 2015
+# SagaMi, 2016
+# lambda81, 2015
+# lambda81, 2016
+# lidor malich, 2015
+# Noam Guterman, 2017
+# SagaMi, 2016
+# Yaron Shahrabani, 2016
+# ‫לידור מליח‬‎, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Covenant\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2017-10-08 11:15+0300\n"
-"Last-Translator: A. dumbledore\n"
+"PO-Revision-Date: 2017-10-22 12:48+0300\n"
+"Last-Translator: A. Dambledore\n"
 "Language-Team: Eng2Heb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he_IL\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 
 msgctxt "#32001"
 msgid "Movies"
@@ -38,7 +52,7 @@ msgstr "פרקים חדשים"
 
 msgctxt "#32007"
 msgid "Channels"
-msgstr "ערוצים"
+msgstr "סרטים מערוצים"
 
 msgctxt "#32008"
 msgid "Tools"
@@ -70,15 +84,15 @@ msgstr "שפות"
 
 msgctxt "#32015"
 msgid "Certificates"
-msgstr "סינון גיל"
+msgstr "תעודות"
 
 msgctxt "#32016"
 msgid "Networks"
-msgstr "רשתות"
+msgstr "רשת"
 
 msgctxt "#32017"
 msgid "People Watching"
-msgstr "אנשים צופים כעת"
+msgstr "אנשים צפו"
 
 msgctxt "#32018"
 msgid "Most Popular"
@@ -86,11 +100,11 @@ msgstr "הכי פופולרי"
 
 msgctxt "#32019"
 msgid "Most Voted"
-msgstr "דירוג מצביעים"
+msgstr "הוצבע הכי הרבה"
 
 msgctxt "#32020"
 msgid "Box Office"
-msgstr "בקופות"
+msgstr "קוּפָּה"
 
 msgctxt "#32021"
 msgid "Oscar Winners"
@@ -98,11 +112,11 @@ msgstr "זוכי אוסקר"
 
 msgctxt "#32022"
 msgid "In Theaters"
-msgstr "בקולנוע"
+msgstr "עכשיו בקולנוע"
 
 msgctxt "#32023"
 msgid "Highly Rated"
-msgstr "דירוג גבוה"
+msgstr "מדורגים גבוה"
 
 msgctxt "#32024"
 msgid "Airing today"
@@ -118,7 +132,7 @@ msgstr "סדרות חדשות"
 
 msgctxt "#32027"
 msgid "TV Calendar"
-msgstr "לוח שידורי טלוויזיה"
+msgstr "לוח שידורים"
 
 msgctxt "#32028"
 msgid "People Search"
@@ -126,11 +140,11 @@ msgstr "חיפוש שחקנים"
 
 msgctxt "#32029"
 msgid "People (Movies)"
-msgstr "שחקני סרטים"
+msgstr "שחקנים(סרטים)"
 
 msgctxt "#32030"
 msgid "People (TV)"
-msgstr "שחקני סדרות"
+msgstr "שחקנים(סדרות)"
 
 msgctxt "#32031"
 msgid "Discover"
@@ -138,7 +152,7 @@ msgstr "סייר"
 
 msgctxt "#32032"
 msgid "Collection"
-msgstr "אוספים"
+msgstr "קולקציה"
 
 msgctxt "#32033"
 msgid "Watchlist"
@@ -146,7 +160,7 @@ msgstr "רשימת צפייה"
 
 msgctxt "#32034"
 msgid "IMDb"
-msgstr "IMDB"
+msgstr "IMDb"
 
 msgctxt "#32035"
 msgid "Featured"
@@ -182,7 +196,7 @@ msgstr "לא נמצא חשבון IMDB או טראקט."
 
 msgctxt "#32043"
 msgid "[B]SETTINGS[/B] : General"
-msgstr "[B]הגדרות[/B] : כלליות"
+msgstr "[B]הגדרות[/B] : סגנון"
 
 msgctxt "#32044"
 msgid "[B]SETTINGS[/B] : Accounts"
@@ -222,11 +236,11 @@ msgstr "[B]קובננט[/B] : ניקוי מטמון..."
 
 msgctxt "#32053"
 msgid "[I]Next Page[/I]"
-msgstr "[I]אל הדף הבא[/I]"
+msgstr "[I]לעמוד הבא[/I]"
 
 msgctxt "#32054"
 msgid "Seasons"
-msgstr "עונות"
+msgstr "עונות השנה"
 
 msgctxt "#32055"
 msgid "Season"
@@ -234,11 +248,11 @@ msgstr "עונה"
 
 msgctxt "#32056"
 msgid "Are you sure?"
-msgstr "האם אתה בטוח?"
+msgstr "האם להחיל את השינויים?"
 
 msgctxt "#32057"
 msgid "Process Complete"
-msgstr "תהליך הושלם"
+msgstr "התהליך הושלם"
 
 msgctxt "#32058"
 msgid "This will slow down things until they are re-cached!"
@@ -262,11 +276,11 @@ msgstr "[B]%s[/B] : %s"
 
 msgctxt "#32063"
 msgid "Play using..."
-msgstr "נגן באמצעות..."
+msgstr "ניגון באמצעות..."
 
 msgctxt "#32064"
 msgid "Auto Play"
-msgstr "ניגון אוטומטי"
+msgstr "הפעלה אוטומטית"
 
 msgctxt "#32065"
 msgid "Queue item"
@@ -290,7 +304,7 @@ msgstr "לא נצפה בטראקט"
 
 msgctxt "#32070"
 msgid "Trakt Manager"
-msgstr "מנהל טראקט"
+msgstr "מנהל Trakt"
 
 msgctxt "#32071"
 msgid "Browse Series"
@@ -298,7 +312,7 @@ msgstr "עיון בסדרות"
 
 msgctxt "#32072"
 msgid "Refresh"
-msgstr "ריענון"
+msgstr "רענן"
 
 msgctxt "#32073"
 msgid "[B]TRAKT[/B] : Authorize"
@@ -314,11 +328,11 @@ msgstr "מאופשר"
 
 msgctxt "#32302"
 msgid "Disabled"
-msgstr "לא מאופשר"
+msgstr "מנוטרל"
 
 msgctxt "#32303"
 msgid "User"
-msgstr "שם משתמש"
+msgstr "משתמש"
 
 msgctxt "#32304"
 msgid "Email"
@@ -330,7 +344,7 @@ msgstr "מזהה"
 
 msgctxt "#32306"
 msgid "Authorization..."
-msgstr "אימות..."
+msgstr "הזדהות..."
 
 msgctxt "#32307"
 msgid "Password"
@@ -350,11 +364,11 @@ msgstr "כללי"
 
 msgctxt "#32311"
 msgid "Appearance"
-msgstr "מראה"
+msgstr "הצג"
 
 msgctxt "#32312"
 msgid "Providers Timeout"
-msgstr "זמן חיפוש שרתים"
+msgstr "זמן קצוב לספקים"
 
 msgctxt "#32313"
 msgid "Indicators"
@@ -394,7 +408,7 @@ msgstr "מוצגים"
 
 msgctxt "#32322"
 msgid "People Watching"
-msgstr "אנשים צופים כעת"
+msgstr "אנשים צפו"
 
 msgctxt "#32323"
 msgid "Most Popular"
@@ -402,7 +416,7 @@ msgstr "הכי פופולרי"
 
 msgctxt "#32324"
 msgid "In Theaters"
-msgstr "בקולנוע"
+msgstr "עכשיו בקולנוע"
 
 msgctxt "#32325"
 msgid "New Episodes"
@@ -414,11 +428,11 @@ msgstr "פרקים"
 
 msgctxt "#32327"
 msgid "Trakt Progress"
-msgstr "התקדמות סדרות טראקט"
+msgstr "התקדמות Trakt"
 
 msgctxt "#32328"
 msgid "Trakt Episodes"
-msgstr "פרקים בטראקט"
+msgstr "פרקים ב-Trakt"
 
 msgctxt "#32329"
 msgid "My Lists"
@@ -438,27 +452,27 @@ msgstr "דיאלוג"
 
 msgctxt "#32333"
 msgid "Directory"
-msgstr "ספרייה"
+msgstr "תיקייה"
 
 msgctxt "#32334"
 msgid "Auto Play"
-msgstr "ניגון אוטומטי"
+msgstr "הפעלה אוטומטית"
 
 msgctxt "#32335"
 msgid "Progress Dialog"
-msgstr "דיאלוג התקדמות"
+msgstr "חלונית התקדמות"
 
 msgctxt "#32336"
 msgid "Foreground"
-msgstr "בחזית"
+msgstr "חזית"
 
 msgctxt "#32337"
 msgid "Background"
-msgstr "ברקע"
+msgstr "‎ברקע"
 
 msgctxt "#32338"
 msgid "File Hosting Filters"
-msgstr "סינון שרתים"
+msgstr "מסנני אירוח קבצים"
 
 msgctxt "#32339"
 msgid "Max Quality"
@@ -474,7 +488,7 @@ msgstr "שרתים עם קוד אימות"
 
 msgctxt "#32342"
 msgid "Sort by Provider"
-msgstr "סידור לפי שרתים"
+msgstr "מיין לפי ספק"
 
 msgctxt "#32343"
 msgid "When playback starts..."
@@ -490,7 +504,7 @@ msgstr "שרתים"
 
 msgctxt "#32346"
 msgid "Accounts"
-msgstr "חשבונות"
+msgstr "חשבון"
 
 msgctxt "#32347"
 msgid "Downloads"
@@ -514,7 +528,7 @@ msgstr "תכונות ההורדה מנוטרלות כברירת מחדל."
 
 msgctxt "#32352"
 msgid "Set up your download folders in order to enable them."
-msgstr "הגדר את תיקיות ההורדה שלך על מנת לאפשר הורדה."
+msgstr "הגדר את תיקיות ההורדה שלך על מנת לאפשר אותם."
 
 msgctxt "#32353"
 msgid "Subtitles"
@@ -538,15 +552,15 @@ msgstr "שפה משנית"
 
 msgctxt "#32358"
 msgid "Subtitles could be unavailable or out of sync."
-msgstr "יתכן שהכתוביות לא יהיו זמינות או שלא יהיו מסונכרנות."
+msgstr "הכתוביות יכולות להיות לא תואמות או לא מסונכרנות."
 
 msgctxt "#32359"
 msgid "In that case use your own subtitles."
-msgstr "במקרה שכזה מוטב להשתמש בכתוביות שסופקו על ידך."
+msgstr "במקרה שאתה משתמש בכתוביות משלך."
 
 msgctxt "#32360"
 msgid "Providers Language"
-msgstr "ספקי שפה"
+msgstr "שפת ספקים"
 
 msgctxt "#32363"
 msgid "HEVC"
@@ -574,7 +588,7 @@ msgstr "הורדה"
 
 msgctxt "#32404"
 msgid "Time elapsed: %s seconds"
-msgstr "זמן שעבר %s שניות"
+msgstr "הזמן שחלף: %s שניות"
 
 msgctxt "#32405"
 msgid "%s seconds"
@@ -582,27 +596,27 @@ msgstr "%s שניות"
 
 msgctxt "#32406"
 msgid "Remaining providers: %s"
-msgstr "מקורות שנותרו : %s"
+msgstr "ספקים שנותרו: %s"
 
 msgctxt "#32407"
 msgid "Are you sure?"
-msgstr "האם אתה בטוח?"
+msgstr "האם להחיל את השינויים?"
 
 msgctxt "#32408"
 msgid "Process Complete"
-msgstr "תהליך הושלם"
+msgstr "התהליך הושלם"
 
 msgctxt "#32501"
 msgid "Start from beginning"
-msgstr "התחל מחדש"
+msgstr "התחל מההתחלה"
 
 msgctxt "#32502"
 msgid "Resume from %s"
-msgstr "המשך מ %s"
+msgstr "המשך מ־%s"
 
 msgctxt "#32503"
 msgid "Resume"
-msgstr "הפעל מחדש"
+msgstr "תקציר"
 
 msgctxt "#32511"
 msgid "An account already exists."
@@ -610,7 +624,7 @@ msgstr "החשבון כבר קיים."
 
 msgctxt "#32512"
 msgid "Do you want to reset?"
-msgstr "האם לאפס?"
+msgstr "האם ברצונך לאפס?"
 
 msgctxt "#32513"
 msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
@@ -622,7 +636,7 @@ msgstr "2) כאשר תתבקש תזין: [COLOR skyblue]%s[/COLOR]"
 
 msgctxt "#32515"
 msgid "Trakt Manager"
-msgstr "מנהל טראקט"
+msgstr "מנהל Trakt"
 
 msgctxt "#32516"
 msgid "Add to [B]Collection[/B]"
@@ -658,7 +672,7 @@ msgstr "החשבון כבר קיים."
 
 msgctxt "#32532"
 msgid "Do you want to reset?"
-msgstr "האם לאפס?"
+msgstr "האם ברצונך לאפס?"
 
 msgctxt "#32533"
 msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
@@ -682,11 +696,11 @@ msgstr "אין מה לנגן"
 
 msgctxt "#32538"
 msgid "DEBRID-SERVICE"
-msgstr "שירות ריל דבריד"
+msgstr "שירות ריל-דבריד"
 
 msgctxt "#32539"
 msgid "Configure Debrid Services in URLResolver Settings."
-msgstr "קבע את תצורת שירותי ריל דבריד בהגדרות URLResolver."
+msgstr "קבע את תצורת שירותי ריל-דבריד בהגדרות URLResolver."
 
 msgctxt "#32540"
 msgid "URLResolver Settings"
@@ -710,15 +724,15 @@ msgstr "סדרות"
 
 msgctxt "#32545"
 msgid "Auto update TV Shows"
-msgstr "עדכון אוטומטי לסדרות"
+msgstr "עדכון אוטומטי של סדרות"
 
 msgctxt "#32546"
 msgid "Show notifications during update"
-msgstr "הצג הודעות במהלך עדכון"
+msgstr "הצג הודעות במהלך העדכון"
 
 msgctxt "#32547"
 msgid "Update library after adding content"
-msgstr "עדכן ספריה לאחר הוספת תוכן"
+msgstr "עדכון ספריה לאחר הוספת תוכן"
 
 msgctxt "#32548"
 msgid "Avoid creating duplicate content"
@@ -726,19 +740,19 @@ msgstr "הימנע מיצירת תוכן כפול"
 
 msgctxt "#32549"
 msgid "Check movie before adding it"
-msgstr "בדוק את הסרט לפני הוספתו"
+msgstr "בדוק סרטים לפני הוספה"
 
 msgctxt "#32550"
 msgid "Check first episode of season before adding it"
-msgstr "בדוק את הפרק הראשון של העונה לפני הוספתו"
+msgstr "בדוק פרק ראשון של עונה לפני הוספה"
 
 msgctxt "#32551"
 msgid "Add to Library"
-msgstr "הוספה לספריה"
+msgstr "הוסף לספריה"
 
 msgctxt "#32552"
 msgid "Adding to library..."
-msgstr "מוסיף לספרייה..."
+msgstr "מוסיף לספריה..."
 
 msgctxt "#32553"
 msgid "Updating TV shows..."
@@ -746,11 +760,11 @@ msgstr "מעדכן סדרות..."
 
 msgctxt "#32554"
 msgid "Process Complete"
-msgstr "תהליך הושלם"
+msgstr "התהליך הושלם"
 
 msgctxt "#32555"
 msgid "Are you sure?"
-msgstr "האם אתה בטוח?"
+msgstr "האם להחיל את השינויים?"
 
 msgctxt "#32556"
 msgid "[B]COVENANT[/B] : Library"
@@ -758,7 +772,7 @@ msgstr "[B]קובננט[/B] : ספרייה"
 
 msgctxt "#32557"
 msgid "[B]LIBRARY[/B] : Settings"
-msgstr "[B]COVENANT[/B] : הגדרות"
+msgstr "[B]ספריה[/B]: הגדרות"
 
 msgctxt "#32558"
 msgid "[B]COVENANT[/B] : Update library..."
@@ -766,11 +780,11 @@ msgstr "[B]קובננט[/B] : עדכון ספרייה..."
 
 msgctxt "#32559"
 msgid "[B]COVENANT[/B] : Movie folder..."
-msgstr "[B]COVENANT[/B] : תיקיית סרטים..."
+msgstr "[B]קובננט[/B] : תיקיית סרטים..."
 
 msgctxt "#32560"
 msgid "[B]COVENANT[/B] : TV folder..."
-msgstr "[B]COVENANT[/B] : תיקיית סדרות..."
+msgstr "[B]קובננט[/B] : תיקיית סדרות..."
 
 msgctxt "#32561"
 msgid "[B]TRAKT[/B] : Import Collection..."
@@ -778,15 +792,15 @@ msgstr "B]טראקט[/B] : ייבוא אוסף..."
 
 msgctxt "#32562"
 msgid "[B]TRAKT[/B] : Import Watchlist..."
-msgstr "B]טראקט[/B] : ייבוא רשימת צפייה..."
+msgstr "B]טראקט[/B] : ייבוא רשימת צפייה."
 
 msgctxt "#32563"
 msgid "[B]TRAKT[/B] : Import TV Collection..."
-msgstr "B]טראקט[/B] : ייבוא אוספי טלוויזיה..."
+msgstr "[B]טראקט[/B]: ייבוא אוסף סדרות..."
 
 msgctxt "#32564"
 msgid "[B]TRAKT[/B] : Import TV Watchlist..."
-msgstr "[B] TRAKT [/B]: ייבוא רשימת צפייה בסדרות..."
+msgstr "[B]טראקט[/B]: ייבוא רשימת צפייה בסדרות."
 
 msgctxt "#32565"
 msgid "Include episodes with unknown air dates"
@@ -818,16 +832,72 @@ msgstr "מפתח API מותאם אישי מאפשר קבלת מקורות נוס
 
 msgctxt "#32583"
 msgid "Become a VIP member for many benefits at: https://fanart.tv/vip"
-msgstr "כחבר VIP תזכה להטבות רבות ב: https://fanart.tv/vip"
+msgstr "כחבר VIP תזכה להטבות רבות ב- https://fanart.tv/vip"
 
 msgctxt "#32584"
 msgid "Sort order for Trakt Watched Progress"
-msgstr "מיון סדר עבור התקדמות רשית צפייה בטראקט"
+msgstr "מיון סדר עבור תהליך רשימת נצפה בטראקט"
 
 msgctxt "#32585"
 msgid "Recently aired"
-msgstr "שודרו לאחרונה"
+msgstr "שודר לאחרונה"
 
 msgctxt "#32586"
 msgid "Recently watched"
-msgstr "לא נצפה לאחרונה"
+msgstr "נצפה לאחרונה"
+
+msgctxt "#32587"
+msgid "Show Extra Source Info"
+msgstr "הצג פרטי מקור נוסף"
+
+msgctxt "#32588"
+msgid "Premium Source Identifier Color"
+msgstr "מזהה צבע של מקור פרמיום"
+
+msgctxt "#32589"
+msgid "Blue"
+msgstr "כחול"
+
+msgctxt "#32590"
+msgid "Red"
+msgstr "אדום"
+
+msgctxt "#32591"
+msgid "Yellow"
+msgstr "צהוב"
+
+msgctxt "#32592"
+msgid "Deep Pink"
+msgstr "ורוד עמוק"
+
+msgctxt "#32593"
+msgid "Cyan"
+msgstr "ציאן"
+
+msgctxt "#32594"
+msgid "Lawn Green"
+msgstr "ירוק דשא"
+
+msgctxt "#32595"
+msgid "Gold"
+msgstr "זהב"
+
+msgctxt "#32596"
+msgid "Magenta"
+msgstr "מג\\'נטה"
+
+msgctxt "#32597"
+msgid "Yellow Green"
+msgstr "צהוב ירוק"
+
+msgctxt "#32598"
+msgid "No Color"
+msgstr "ללא צבע"
+
+msgctxt "#32599"
+msgid "Getting genre information from Trakt"
+msgstr "מקבל מידע על סגנון מטראקט"
+
+msgctxt "#32600"
+msgid "Preparing sources"
+msgstr "מכין מקורות"
