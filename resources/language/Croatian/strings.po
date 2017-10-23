@@ -897,3 +897,11 @@ msgstr "Dobivanje informacija žanra sa trakta"
 msgctxt "#32600"
 msgid "Preparing sources"
 msgstr "Pripremanje izvora"
+
+msgctxt "#32601"
+msgid "Total"
+msgstr "Ukupno"
+
+msgctxt "#32602"
+msgid "Waiting for"
+msgstr "Čekam"
