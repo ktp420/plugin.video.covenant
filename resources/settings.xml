@@ -179,6 +179,7 @@
         <setting id="provider.boxfilm" type="bool" label="BOXFILM" default="true" />
         <setting id="provider.ekinomaniak" type="bool" label="EKINOMANIAK" default="true" />
         <setting id="provider.filiser" type="bool" label="FILISER" default="true" />
+        <setting id="provider.filmwebbooster" type="bool" label="FILMWEBBOOSTER" default="true" />
         <setting label="Korean" type="lsep" />
         <setting id="provider.drama4u" type="bool" label="DRAMA4U" default="true" />
         <setting id="provider.dramabus" type="bool" label="DRAMABUS" default="true" />
@@ -213,7 +214,7 @@
         <setting id="fanart.tv.user" type="text" label="32309" default="" />
         <setting type="sep" />
         <setting type="lsep" label="TMDb" />
-        <setting id="tm.user" type="text" label="32309" default="" />
+        <setting id="tm.user" type="text" option="hidden" label="32309" default="6c992347c18547e5fc8f8d0762902b1c" />
         <setting type="sep" />
         <setting type="lsep" label="Trakt" />
         <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.covenant/?action=authTrakt)" />
