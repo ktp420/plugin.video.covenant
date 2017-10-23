@@ -75,6 +75,7 @@
         <setting id="provider.moviexk" type="bool" label="MOVIEXK" default="true" />
         <setting id="provider.myddl" type="bool" label="MYDDL" default="true" />
         <setting id="provider.myvideolink" type="bool" label="MYVIDEOLINK" default="true" />
+        <setting id="provider.mzmovies" type="bool" label="MZMOVIES" default="true" />
         <setting id="provider.ninemovies" type="bool" label="NINEMOVIES" default="true" />
         <setting id="provider.onemovies" type="bool" label="ONEMOVIES" default="true" />
         <setting id="provider.onlinedizi" type="bool" label="ONLINEDIZI" default="true" />
@@ -102,6 +103,7 @@
         <setting id="provider.seriesonline" type="bool" label="SERIESONLINE" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
         <setting id="provider.streamlord" type="bool" label="STREAMLORD" default="true" />
+        <setting id="provider.sunpro" type="bool" label="SUNPRO" default="true" />
         <setting id="provider.tinklepad" type="bool" label="TINKLEPAD" default="true" />
         <setting id="provider.tinydl" type="bool" label="TINYDL" default="true" />
         <setting id="provider.tunemovie" type="bool" label="TUNEMOVIE" default="true" />
