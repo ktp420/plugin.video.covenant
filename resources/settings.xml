@@ -65,6 +65,7 @@
         <setting id="provider.library" type="bool" label="LIBRARY" default="true" />
         <setting id="provider.miradetodo" type="bool" label="MIRADETODO" default="true" />
         <setting id="provider.movie25" type="bool" label="MOVIE25" default="true" />
+        <setting id="provider.moviefourk" type="bool" label="MOVIE4K" default="true" />
         <setting id="provider.moviego" type="bool" label="MOVIEGO" default="true" />
         <setting id="provider.movies14" type="bool" label="MOVIES14" default="true" />
         <setting id="provider.moviesgold" type="bool" label="MOVIESGOLD" default="true" />
