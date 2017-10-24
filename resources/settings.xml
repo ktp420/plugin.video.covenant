@@ -100,6 +100,7 @@
         <setting id="provider.sceper" type="bool" label="SCEPER" default="true" />
         <setting id="provider.scnrls" type="bool" label="SCNRLS" default="true" />
         <setting id="provider.sezonlukdizi" type="bool" label="SEZONLUKDIZI" default="true" />
+        <setting id="provider.seriesfree" type="bool" label="SERIESFREE" default="true" />
         <setting id="provider.seriesonline" type="bool" label="SERIESONLINE" default="true" />
         <setting id="provider.solarmovie" type="bool" label="SOLARMOVIE" default="true" />
         <setting id="provider.streamlord" type="bool" label="STREAMLORD" default="true" />
