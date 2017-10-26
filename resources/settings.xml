@@ -97,6 +97,7 @@
         <setting id="provider.rjsmovie" type="bool" label="RJSMOVIE" default="true" />
         <setting id="provider.rlsbb" type="bool" label="RLSBB" default="true" />
         <setting id="provider.rlsmovies" type="bool" label="RLSMOVIES" default="true" />
+        <setting id="provider.savaze" type="bool" label="SAVAZE" default="true" />
         <setting id="provider.scenedown" type="bool" label="SCENEDOWN" default="true" />
         <setting id="provider.sceper" type="bool" label="SCEPER" default="true" />
         <setting id="provider.scnrls" type="bool" label="SCNRLS" default="true" />
